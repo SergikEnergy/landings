@@ -1,0 +1,1 @@
+console.log("My mark is 90 from 100");
